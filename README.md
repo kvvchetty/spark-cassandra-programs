@@ -15,3 +15,16 @@ Server starts and we can make request thorugh opening chrome browser
 and pasting --> "localhost:4567/hello"
 to address bar
 
+
+
+Few programs in sourc folder
+
+json to rdd
+
+csv to rdd
+
+aggregation in spark sql
+
+java bean to spark
+
+cassandra .... spark .... rollup.... this module has some drive version issue. I put it in xxx 
